@@ -1,0 +1,12 @@
+.loginbox{
+    display: inline-flex;
+    margin: 319px;
+}
+
+
+.logingrid{
+    display: flex;
+    flex-direction: column;
+    width: 217px;
+    row-gap: 13px;
+}

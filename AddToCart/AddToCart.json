@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "Product Name ": "Mobile",
+        "Model": "Realme x3 superzoom",
+        "image": "https://img.etimg.com/thumb/msid-76784632,width-650,height-488,imgsize-379536,,resizemode-75/a-major-highlight-of-the-realme-x3-super-zoom-is-the-periscope-lens-.jpg",
+        "price": 32000,
+        "qty":0
+    },
+    {
+        "id": 2,
+        "Product Name ": "Mobile",
+        "Model": "Pocco f2",
+        "image": "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-poco-f2-pro-2.jpg",
+        "price": 25000,
+        "qty":0
+    },
+    {
+        "id": 3,
+        "Product Name ": "Mobile",
+        "Model": "Google Pixel 7",
+        "image": "https://rukminim1.flixcart.com/image/416/416/xif0q/mobile/y/u/3/-original-imaggsuddwubypxp.jpeg?q=70      ",
+        "price": 57000,
+        "qty":0
+    },
+    {
+        "id": 4,
+        "Product Name ": "Mobile",
+        "Model": "iPhone 14",
+        "image": "https://m.media-amazon.com/images/I/61cwywLZR-L._SX679_.jpg",
+        "price": 83990,
+        "qty":0
+    },
+    {
+        "id": 5,
+        "Product Name ": "Mobile",
+        "Model": "Tecno POVA 4",
+        "image": "https://m.media-amazon.com/images/I/61pfaqZrLnL._SX679_.jpg",
+        "price": 12000,
+        "qty":0
+    },
+    {
+        "id": 6,
+        "Product Name ": "Mobile",
+        "Model": "Samsung S22 ultra",
+        "image": "https://m.media-amazon.com/images/I/71018KeTu6L._SX679_.jpg",
+        "price": 109999,
+        "qty":0
+    },
+    {
+        "id": 7,
+        "Product Name ": "Mobile",
+        "Model": "MOTOROLA G62",
+        "image": "https://rukminim1.flixcart.com/image/416/416/xif0q/mobile/h/r/b/-original-imagh29eqd3zrvaf.jpeg?q=70",
+        "price": 14999,
+        "qty":0
+    },
+    {
+        "id": 8,
+        "Product Name ": "Mobile",
+        "Model": "realme 9i ",
+        "image": "https://www.reliancedigital.in/medias/Realme-RMX3491-GSMHANDSETSANDROID-492575026-i-6-1200Wx1200H?context=bWFzdGVyfGltYWdlc3w4MzUxN3xpbWFnZS9qcGVnfGltYWdlcy9oNjgvaGI5Lzk4MTU4MTU0MjE5ODIuanBnfGJmOTRiMTQyMTUxMmY5YjU4NzE0ODM4OWVkY2MyYmIxOGJmNjRiNjdmY2M2YjMxNTBjY2ZmMDM5MmJmY2U1NzU",
+        "price": 25000,
+        "qty":0
+    },
+    {
+        "id": 9,
+        "Product Name ": "Mobile",
+        "Model": "realme 10 Pro",
+        "image": "https://rukminim1.flixcart.com/image/416/416/xif0q/mobile/8/u/s/-original-imagkp8yreabrzh2.jpeg?q=70",
+        "price": 18999,
+        "qty":0
+    }
+]

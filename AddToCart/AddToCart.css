@@ -1,0 +1,72 @@
+.grid{
+    display: grid;
+    grid-template-columns: auto auto auto;
+}
+.cartButton{
+        float: right;
+        margin: 5px;
+        background-color: white;
+        cursor: pointer;
+}
+.button{
+    background-color: #427430;
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    font-size: medium;
+    margin: 10px 1px;
+    cursor: pointer;
+}
+
+.productList{
+    background-color:rgb(242, 241, 241,0.5);
+    margin: 10px 0px;
+    
+}
+/* .productListPage{
+    background-image:url("https://images.pexels.com/photos/35550/ipad-tablet-technology-touch.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+    background-repeat:no-repeat;
+    background-size: cover;
+} */
+.cartButtonQty{
+    float: right;
+    position: relative;
+    color: red;
+    right: 44px;
+    bottom: 6px;
+}
+.dialog {
+    box-shadow: 0 8px 6px -6px black;
+    position: static;
+    left: 20%;
+    top: 10%;
+}
+/* .popUp{
+    position:fixed;
+    top: 0;
+    left: 0;
+    background: rgba(0,0,0,.9);
+    height: 100%;
+    width: 100%;
+    z-index: 100;
+}
+.popUp span{
+    position: absolute;
+    top: 0;
+    right: 10px;
+    font-size: 60px;
+    font-weight: bolder;
+    color: #fff;
+    cursor: pointer;
+    z-index: 100;
+}
+.popUp img{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50% , -50%);border: 5px solid #fff;
+    border-radius: 5px;
+    width: 750px;
+    object-fit: cover;
+}
+ */
